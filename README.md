@@ -12,3 +12,12 @@ A t2i model to generate wonderful posters.
 
 ## Environment
 
+```bash
+conda create --name posterwiz python=3.10 torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia 
+conda install -c "nvidia/label/cuda-11.8.0" cuda-nvcc 
+conda install -c "nvidia/label/cuda-11.8.0" cuda-toolkit
+```
+
+```bash
+conda activate posterwiz
+```
