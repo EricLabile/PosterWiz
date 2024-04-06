@@ -1,5 +1,5 @@
 # PosterWiz
-A t2i model to generate wonderful posters.
+This is the course project for COMP5214. We are going to introduce a t2i model to generate wonderful posters.
 
 ## Methodology
 
